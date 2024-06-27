@@ -1,11 +1,15 @@
 Game Server for Windows(1900)
 ===============
-Current latest version: [230717621](https://github.com/amusegame/v1900/releases/download/230717621/v1900-230717621.github.7z)
+Current latest version: [240614832](https://github.com/amusegame/v1900/releases/download/240614832/v1900-240614832.github.7z)
 
 Release Date: 2023-07-17
 
 Release Notes
 -----------------------------------
+240614832
+	1. Fixed many skills; 
+	2. Fixed many problems; 
+
 230717621
 	1. Fixed some problem; 
 
